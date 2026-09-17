@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 Hi there, I'm Salin (汪三林)
+# 👋 Hi there, I'm Salin
 
 ### 🚀 AI Systems Architect · Full-Stack Builder · Open-Source Creator
 
 <p align="center">
-  <a href="https://salin-official.vercel.app">🌐 个人主页 / Portfolio</a> •
-  <a href="mailto:salin910525@gmail.com">📫 邮件联系 / Email</a> •
-  <a href="https://github.com/wangsalin?tab=repositories">📦 全部门户仓库 / Repositories</a>
+  <a href="https://salin-official.vercel.app">🌐 Portfolio</a> •
+  <a href="mailto:salin910525@gmail.com">📫 Email</a> •
+  <a href="https://github.com/wangsalin?tab=repositories">📦 Repositories</a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Production-Ready+AI+SaaS+Infrastructure;Pioneering+AI+Cinema+Actor+Reasoning+Systems;Developing+High-Performance+Fullstack+Applications;Exploring+Autonomous+Agentic+Workflows)](https://git.io/typing-svg)
@@ -16,29 +16,29 @@
 
 ---
 
-### 💡 核心关注与技术视野 (Focus & Philosophy)
+### 💡 Focus & Technical Vision
 
-- 🎬 **AI 影视表演与创意智能**：探索斯坦尼斯拉夫斯基行动理论与现代大模型（Kling / Runway / Veo / Sora）的结合，消除 AI 视频角色“假人感”与微表情僵硬。
-- 🏢 **企业级 AI SaaS 商业基础设施**：打造开源多租户、上下文隔离、统一 AI 路由网关、向量知识库 RAG 与配额账本商业闭环。
-- ⚽ **体育数据智能与赛事建模**：基于移动端优先与全自动化流水线，构建赛事数据挖掘与 AI 多维分析引擎。
-- 🤖 **新媒体与自主智能体 (Agentic Workflows)**：深耕 OpenClaw、Claude Skills 与真实浏览器 CDP 自动化，赋能实体同城商圈获客与自媒体全域运营。
+- 🎬 **AI Cinema & Generative Acting**: Applying Stanislavski method acting principles to video diffusion models (Kling, Runway, Veo, Sora) to eliminate robotic artifacts and enable nuanced micro-expressions.
+- 🏢 **Enterprise Multi-Tenant AI SaaS Infrastructure**: Architecting modular SaaS control planes with strict tenant isolation, unified AI gateways, pgvector RAG, and metered quota ledgers.
+- ⚽ **Sports Analytics & Predictive AI**: Engineering mobile-first, cron-driven automated data ingestion and predictive reasoning engines for football match intelligence.
+- 🤖 **Autonomous Agentic Workflows**: Designing production skills and headless browser automation (CDP) for social media operations, content generation, and local business growth.
 
 ---
 
-### 🌟 核心开源项目矩阵 (Featured Open Source Matrix)
+### 🌟 Featured Open-Source Projects
 
-| 赛道 | 核心开源仓库 | 核心能力与技术亮点 | 状态 |
+| Category | Repository | Highlights & Capabilities | Stars |
 | :--- | :--- | :--- | :---: |
-| **AI 影视表演** | 🎬 [**ai-acting-system**](https://github.com/wangsalin/ai-acting-system) | **AI 影视表演推理系统与提示词编译器**<br>基于斯坦尼演剧体系，消除可灵/Runway/Veo 角色假人感，内置 16 条负向禁忌与微表情控制 | [![Stars](https://img.shields.io/github/stars/wangsalin/ai-acting-system?style=flat&color=yellow)](https://github.com/wangsalin/ai-acting-system) |
-| **体育 AI 预测** | ⚽ [**football-ai-h5**](https://github.com/wangsalin/football-ai-h5) | **移动优先足球比赛 AI 预测分析与管理平台**<br>Next.js 14 App Router + Prisma + Redis，赛前自动推理、赛后自动复盘、合规中后台 | [![Stars](https://img.shields.io/github/stars/wangsalin/football-ai-h5?style=flat&color=yellow)](https://github.com/wangsalin/football-ai-h5) |
-| **AI SaaS 底座** | 🏢 [**openmole**](https://github.com/wangsalin/openmole) | **开源多租户 AI SaaS 商业底座与全功能后端**<br>NestJS 10 + pgvector + BullMQ，多租户隔离、AI 统一路由网关、PromptOps、RAG 与配额计费 | [![Stars](https://img.shields.io/github/stars/wangsalin/openmole?style=flat&color=yellow)](https://github.com/wangsalin/openmole) |
-| **新媒体自动化** | 📱 [**Dog-XHS**](https://github.com/wangsalin/Dog-XHS) | **xiaohongshu-ops: 小红书全自动 AI 运营与爆款复刻**<br>基于 Chrome DevTools Protocol (CDP) 真实浏览器自动化，推荐流拆解、自动发帖与智能回评 | [![Stars](https://img.shields.io/github/stars/wangsalin/Dog-XHS?style=flat&color=yellow)](https://github.com/wangsalin/Dog-XHS) |
-| **同城实体营销** | 📍 [**salin-skills**](https://github.com/wangsalin/salin-skills) | **同城实体门店短视频营销 Claude Skill**<br>实体餐饮/美业商圈 GEO 定位获客，8 大爆款元素诊断、黄金 3 秒地标钩子与分镜脚本 | [![Stars](https://img.shields.io/github/stars/wangsalin/salin-skills?style=flat&color=yellow)](https://github.com/wangsalin/salin-skills) |
-| **餐饮本地优先** | 🍲 [**foodops**](https://github.com/wangsalin/foodops) | **开源本地优先连锁餐饮门店运营系统**<br>FastAPI + Next.js，多门店经营看板、规则预警转任务、手机 H5 门店端反馈闭环 | [![Stars](https://img.shields.io/github/stars/wangsalin/foodops?style=flat&color=yellow)](https://github.com/wangsalin/foodops) |
+| **AI Cinema** | 🎬 [**ai-acting-system**](https://github.com/wangsalin/ai-acting-system) | **AI Acting System & Prompt Compiler**<br>Stanislavski method acting inference layer eliminating robotic expressions and frozen smiles in Kling, Runway, and Veo videos. | [![Stars](https://img.shields.io/github/stars/wangsalin/ai-acting-system?style=flat&color=yellow)](https://github.com/wangsalin/ai-acting-system) |
+| **Sports AI** | ⚽ [**football-ai-h5**](https://github.com/wangsalin/football-ai-h5) | **Mobile-First Football AI Match Prediction Platform**<br>Next.js 14 App Router, PostgreSQL, Prisma, Redis, automated pre-match analysis and post-match reviews. | [![Stars](https://img.shields.io/github/stars/wangsalin/football-ai-h5?style=flat&color=yellow)](https://github.com/wangsalin/football-ai-h5) |
+| **AI SaaS Backend** | 🏢 [**openmole**](https://github.com/wangsalin/openmole) | **Multi-Tenant AI SaaS Backend Foundation**<br>NestJS 10, pgvector, BullMQ, multi-tenant RBAC, OpenAI-compatible model routing, PromptOps, and billing. | [![Stars](https://img.shields.io/github/stars/wangsalin/openmole?style=flat&color=yellow)](https://github.com/wangsalin/openmole) |
+| **Social Automation** | 📱 [**Dog-XHS**](https://github.com/wangsalin/Dog-XHS) | **xiaohongshu-ops: Autonomous RED Operations Skill**<br>Chrome DevTools Protocol (CDP) automation for feed trend analysis, viral post reverse engineering, and auto-publishing. | [![Stars](https://img.shields.io/github/stars/wangsalin/Dog-XHS?style=flat&color=yellow)](https://github.com/wangsalin/Dog-XHS) |
+| **Local Business Marketing** | 📍 [**salin-skills**](https://github.com/wangsalin/salin-skills) | **Local Business Short-Video Marketing Skill**<br>Claude Skill for physical stores, local POI foot-traffic conversion, 3-second opening hook templates, and storyboard scripts. | [![Stars](https://img.shields.io/github/stars/wangsalin/salin-skills?style=flat&color=yellow)](https://github.com/wangsalin/salin-skills) |
+| **Hospitality Tech** | 🍲 [**foodops**](https://github.com/wangsalin/foodops) | **Local-First Catering & Multi-Store Operations**<br>FastAPI + Next.js, local-first restaurant operations, anomaly alerts, and mobile H5 task feedback loop. | [![Stars](https://img.shields.io/github/stars/wangsalin/foodops?style=flat&color=yellow)](https://github.com/wangsalin/foodops) |
 
 ---
 
-### 🛠️ 技术栈与工具箱 (Tech Stack)
+### 🛠️ Tech Stack & Tooling
 
 <div align="left">
 
@@ -73,7 +73,7 @@
 
 ---
 
-### 📊 GitHub 活跃度与开发统计 (Statistics)
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wangsalin&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Salin's GitHub Stats" width="48%" />
@@ -82,9 +82,9 @@
 
 ---
 
-### 🤝 交流与合作 (Connect & Collaborate)
+### 🤝 Connect & Collaborate
 
-- 💬 欢迎技术交流、开源共建、AI 智能体方案咨询及商业化探讨。
-- 📮 邮箱：[salin910525@gmail.com](mailto:salin910525@gmail.com)
-- 🌐 个人网站：[salin-official.vercel.app](https://salin-official.vercel.app)
-- ⭐ 如果我的开源项目对你有启发或帮助，欢迎随手点个 **Star** 支持！
+- 💬 Open for technical discussions, open-source collaborations, and AI agent architecture consulting.
+- 📮 Email: [salin910525@gmail.com](mailto:salin910525@gmail.com)
+- 🌐 Website: [salin-official.vercel.app](https://salin-official.vercel.app)
+- ⭐ Feel free to explore my repositories and leave a **Star** if you find them helpful!
